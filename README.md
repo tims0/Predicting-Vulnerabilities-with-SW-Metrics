@@ -3,7 +3,7 @@
 This repository contains the code for the paper with the same title "Predicting Vulnerabilities with Software Metrics: What does not work". We provided a pipeline to download the dataset, perform the metrics calculation and evaluate the results.
 An overview of the pipeline provides the following picture:
 ![image](./bpmn.png)
-The code is authored by Celestino Madera Castro.
+The code is authored by Anonymous.
 
 ## Publication
 This project is provided as part of a publication. A citation is always appreciated:
