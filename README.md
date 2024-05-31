@@ -9,13 +9,13 @@ The code is authored by Anonymous.
 This project is provided as part of a publication. A citation is always appreciated:
 ```bibtex
 @inproceedings{article,
-  author={Anonymous authors},
+  author={Tim Sonnekalb, Celestino Madera Castro, Bernd Gruner, Clemens-Alexander Brust, Wolfram Amme},
   booktitle={2024 Joint 5th International Workshop on Engineering and Cybersecurity of Critical Systems and 2nd International Workshop on Software Vulnerability Management (SVM)}, 
-  title={Predicting Vulnerabilities with Software Product Metrics: What does not work}, 
-  year={2023},
+  title={Vulnerability Prediction and Assessment using Software Product Metrics and Machine Learning: What does not work }, 
+  year={2024},
   volume={},
   number={},
-  pages={},
+  pages={5},
   doi={tbd}
   }
 ```
